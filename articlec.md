@@ -62,8 +62,10 @@ example of how you can use Pandas to read a CSV file and summarize the data:
 
 ```
 import pandas as pd
+
 # Load data
 data = pd.read_csv('data.csv')
+
 # Display summary
 print(data.describe())
 ```
