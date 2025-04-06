@@ -61,7 +61,7 @@ areas. Here's a look at some of them:
 Using Python for data analysis is incredibly efficient due to libraries such as Pandas. Below is an
 example of how you can use Pandas to read a CSV file and summarize the data:
 
-```
+```python
 import pandas as pd
 
 # Load data
@@ -81,8 +81,8 @@ conferences around the world, such as PyCon, and an abundance of resources avail
 ### 3.1 Community Resources
 
 Here are some great places to learn more about Python:
-• [Python.org](https://www.python.org/ "https://www.python.org/") - The official Python website.
-• [PyCon](https://pycon.org/ "https://pycon.org/") - A major conference for the Python community.
+- [Python.org](https://www.python.org/ "https://www.python.org/") - The official Python website.
+- [PyCon](https://pycon.org/ "https://pycon.org/") - A major conference for the Python community.
 
 ### 3.2 Utilizing Python Libraries
 
