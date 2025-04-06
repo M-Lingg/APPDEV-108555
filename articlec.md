@@ -37,6 +37,7 @@ instance, ```http``` for server-side code:
 
 ```python
 from http.server import BaseHTTPRequestHandler, HTTPServer
+
 class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
         self.send_response(200)
